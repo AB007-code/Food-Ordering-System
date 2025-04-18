@@ -1,13 +1,61 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+* {
+  background-color: #0c0e10;
+  font-family: "Poppins", sans-serif;
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.divHeight {
+  height: 401px;
+  border-bottom: 1px solid #555555cd;
 }
+.divHeight1 {
+  height: 301px;
+  border-bottom: 1px solid #555555cd;
+}
+.divHeight2 {
+  height: 250px;
+}
+.brandName {
+  font-weight: 600;
+  line-height: 100%;
+  font-size: 24px;
+  color: #ffffff;
+  text-align: center;
+}
+.sloganName {
+  font-weight: 300;
+  line-height: 100%;
+  font-size: 20px;
+  color: #ff2424;
+  text-align: center;
+}
+.olStyle {
+  font-weight: 300;
+  width: 75%;
+  font-size: 24px;
+  line-height: 100%;
+  height: 183px;
+  color: #ffffff;
+  margin-left: 25px;
+}
+.olStyle1 {
+  font-weight: 300;
+  width: 252px;
+  font-size: 24px;
+  line-height: 100%;
+  height: 144px;
+  color: #ffffff;
+  margin-left: 25px;
+  margin-top: 32px;
+}
+.span {
+  position: relative;
+  top: -85%;
+  left: 5%;
+  color: #838383;
+}
+/* .banner {
+  background-image: url("https://shorturl.at/ywWdT");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  border-radius: 5px;
+} */
